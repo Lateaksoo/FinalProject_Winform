@@ -28,16 +28,16 @@ C#, ASP.NET, Winform, Arduino, Entity FrameWork
 
 시스템 설계도
 
-![공정 설명](https://github.com/Lateaksoo/FinalProject_Winform/tree/master/Images/2.png)
+![시스템 설계도](./Images/2.png)
 
 공정 
 
-![공정 설명](https://github.com/Lateaksoo/FinalProject_Winform/tree/master/Images/1.png)
+![공정 설명](./Images/1.png)
 
 
 Serial Protocol
 
-![공정 설명](https://github.com/Lateaksoo/FinalProject_Winform/tree/master/Images/3.png)
+![Serial Protocol](./Images/3.png)
 
 ### **공정 구현에 사용된 입출력 장치**
 
