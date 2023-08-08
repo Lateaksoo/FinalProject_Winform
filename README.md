@@ -43,24 +43,24 @@ C#, ASP.NET, Winform, Arduino, Entity FrameWork
 |LED_GREEN 초록색|6|공정 대기시 점등
 |LED_YELLOW 노란색|6|공정 진행시 점등
 
-### 시스템 설계도
+### **시스템 설계도**
 
 ![시스템 설계도](./Images/2.png)
 
-### 공정 
+### **공정**
 
 ![공정 설명](./Images/1.png)
 
 
-### Serial Protocol
+### **Serial Protocol**
 
 ![Serial Protocol](./Images/3.png)
 
-### 공정 상태 확인
+### **공정 상태 확인**
 
 ![공정 상태 확인](./Images/4.png)
 
-### 검사 데이터 시각화
+### **검사 데이터 시각화**
 
 ![검사 데이터 시각화](./Images/5.png)
 
