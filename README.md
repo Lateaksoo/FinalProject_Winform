@@ -43,6 +43,9 @@ C#, ASP.NET, Winform, Arduino, Entity FrameWork
 |LED_GREEN 초록색|6|공정 대기시 점등
 |LED_YELLOW 노란색|6|공정 진행시 점등
 
+### **발표 자료 PPT**
+![ppt](./Images/ppt.gif)
+
 ### **시스템 설계도**
 
 ![시스템 설계도](./Images/2.png)
