@@ -24,10 +24,11 @@ C#, ASP.NET, Winform, Arduino, Entity FrameWork
 - 데이터베이스에 검사 결과, 공정 상태 저장
 - ATMEGA 2560을 활용한 하드웨어 회로 설계
 
-
+<br>
 
 ## **[제작 시연 영상]**
 
+<br>
 
 ## **프로젝트 설명**
 
