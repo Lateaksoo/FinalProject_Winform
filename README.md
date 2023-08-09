@@ -29,6 +29,12 @@ C#, ASP.NET, Winform, Arduino, Entity FrameWork
 ### **[제작 시연 영상]**
 
 <br>
+<br>
+
+발표자료 PPT
+
+![발표자료](./Images/IsThisRamenPPT.gif)
+
 
 ## **프로젝트 설명**
 
